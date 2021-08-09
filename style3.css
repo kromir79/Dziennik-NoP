@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tekst {
+    font-size: 20px;
+
+}
+
+.discord {
+    width: 700px;
+    height: 200px;
+}
+
+.return {
+    display: inline-block;
+}
+
+
